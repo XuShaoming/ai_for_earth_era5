@@ -29,7 +29,7 @@
 
 ## Input Features - The Atmospheric "Recipe" for Precipitation
 
-![ERA5 Input-Output Animation](visualization_outputs/animation_input_output_8frames.gif)
+![ERA5 Input-Output Animation](https://github.com/XuShaoming/ai_for_earth_era5/tree/master/visualization_outputs/.ipynb_checkpoints/animation_input_output_8frames.gif)
 *Animation showing atmospheric inputs and precipitation output over time*
 
 ### **Surface Variables** (What we feel)
