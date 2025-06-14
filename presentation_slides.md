@@ -1,9 +1,8 @@
 # ERA5 Precipitation Modeling Project
-## Slides for Student Presentation (10 minutes)
 
 ---
 
-## Slide 1: Project Overview - Predicting Precipitation with AI
+## Project Overview - Predicting Precipitation with AI
 
 ### **Project Goal**
 **Use atmospheric data to predict precipitation patterns with machine learning**
@@ -28,7 +27,10 @@
 
 ---
 
-## Slide 2: Input Features - The Atmospheric "Recipe" for Precipitation
+## Input Features - The Atmospheric "Recipe" for Precipitation
+
+![ERA5 Input-Output Animation](visualization_outputs/animation_input_output_8frames.gif)
+*Animation showing atmospheric inputs and precipitation output over time*
 
 ### **Surface Variables** (What we feel)
 - **Wind**: `u10`, `v10` - 10-meter wind speed components
@@ -51,7 +53,7 @@
 
 ---
 
-## Slide 3: Technical Implementation & Results
+## Technical Implementation & Results
 
 ### **Data Pipeline**
 ```python

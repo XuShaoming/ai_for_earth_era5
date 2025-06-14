@@ -66,6 +66,9 @@ The `config.yaml` file contains all configuration parameters:
 
 ### Available ERA5 Channels
 
+![ERA5 Input-Output Animation](visualization_outputs/animation_input_output_8frames.gif)
+*Animation showing atmospheric inputs and precipitation output over time*
+
 **Surface Variables:**
 - `u10`, `v10`: 10m wind components
 - `t2m`: 2m temperature  
