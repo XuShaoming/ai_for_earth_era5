@@ -29,8 +29,7 @@
 
 ## Input Features - The Atmospheric "Recipe" for Precipitation
 
-![ERA5 Input-Output Animation](https://github.com/XuShaoming/ai_for_earth_era5/tree/master/visualization_outputs/.ipynb_checkpoints/animation_input_output_8frames.gif)
-*Animation showing atmospheric inputs and precipitation output over time*
+![ERA5 Input-Output Animation](https://github.com/XuShaoming/ai_for_earth_era5/raw/HEAD/visualization_outputs/animation_input_output_8frames.gif)
 
 ### **Surface Variables** (What we feel)
 - **Wind**: `u10`, `v10` - 10-meter wind speed components
