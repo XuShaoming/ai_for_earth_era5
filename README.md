@@ -47,9 +47,7 @@ cd ai_for_earth_era5
 ```
 
 2. Download your ERA5 data and place them in a directorys and decompress them.:
-```
-https://drive.google.com/drive/folders/1PZuRM7lbX-pBV0Zk34-2RZ3X283DYxex?usp=sharing
-```
+2. Download your ERA5 data from [this Google Drive link](https://drive.google.com/drive/folders/1PZuRM7lbX-pBV0Zk34-2RZ3X283DYxex?usp=sharing) and place them in a directory and decompress them.
 
 3. Update the `DATA_ROOT` variable in `data_loader.py` to point to your data directory.
 
