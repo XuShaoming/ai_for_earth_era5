@@ -1,7 +1,3 @@
-                # ERA5 Temperature Modeling Project
-
----
-
 ## Project Overview - Predicting Surface Temperature with AI
 
 ### **Project Goal**
