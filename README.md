@@ -74,6 +74,7 @@ The `config.yaml` file contains all configuration parameters:
 - `sst`: Sea surface temperature
 - `skt`: Skin temperature
 - `lsm`: Land-sea mask
+- `avg_tprate`: Average total precipitation rate
 
 **Pressure Level Variables:**
 - `z_1000`, `z_600`, `z_200`: Geopotential at different levels
@@ -84,5 +85,3 @@ The `config.yaml` file contains all configuration parameters:
 - `u_800`, `u_600`, `u_400`: U-wind component at different levels
 - `v_800`, `v_600`, `v_400`: V-wind component at different levels
 
-**Output Variables:**
-- `avg_tprate`: Average total precipitation rate
