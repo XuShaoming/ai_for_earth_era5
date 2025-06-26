@@ -59,7 +59,7 @@ Thumbs.db
 *.temp
 
 # Data files (uncomment if you want to ignore large data files)
-# *.zarr/
+*.zarr/
 # *.nc
 # *.h5
 # *.hdf5
@@ -69,18 +69,21 @@ checkpoints/
 models/
 outputs/
 results/
+logs/
+*.pth
+experiments/
 
 # Visualization outputs (if you want to ignore generated plots)
 # visualization_outputs/
 # Ignore image files
-# *.png
-# *.jpg
-# *.jpeg
-# *.gif
-# *.bmp
-# *.tiff
-# *.svg
-# *.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
 
 # Configuration backups
 *.bak
